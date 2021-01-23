@@ -21,3 +21,6 @@
 ### 1. Why Do you want to work at Quora?
 
 >Quora has a millions of user and I always wanted to work in a global company where my work will create an impact on these huge number of people. I wanna grow myself as a full stack software engineer. And in quora I'll get the opportunity to work with from Machine Learning to Distributed Systems. Also If I'm not wrong, then quora uses Continous Integration, so I don't have to wait weeks before I can see my code live. That's very fascinating to me.
+
+
+[Behavioral interview](https://linlaw0229.github.io/2019/06/29/Amazon-behavioral-prepare/)
