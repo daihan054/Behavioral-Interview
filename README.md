@@ -26,6 +26,7 @@
 [Behavioral interview](https://linlaw0229.github.io/2019/06/29/Amazon-behavioral-prepare/)
 
 [All questions that are asked in Amazon LP](https://www.youtube.com/watch?v=RMA7tI-LTWY&ab_channel=DanCroitor)
+[In text](https://pastebin.ubuntu.com/p/vBGThQzyvg/)
 > Check it's description
 
 > SBI = Situation Behavior Impact rules
