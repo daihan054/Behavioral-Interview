@@ -28,4 +28,4 @@
 [All questions that are asked in Amazon LP](https://www.youtube.com/watch?v=RMA7tI-LTWY&ab_channel=DanCroitor)
 > Check it's description
 
-> SB = Situation Behavior Impact rules
+> SBI = Situation Behavior Impact rules
