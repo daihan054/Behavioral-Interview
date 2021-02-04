@@ -18,7 +18,7 @@
  > Big company: "I want to be in a place where my work has an impact on millions of users."
 
 ## Quora
-### 1. Why Do you want to work at Quora?
+### 2. Why Do you want to work at Quora?
 
 >Quora has a millions of user and I always wanted to work in a global company where my work will create an impact on these huge number of people. I wanna grow myself as a full stack software engineer. And in quora I'll get the opportunity to work with from Machine Learning to Distributed Systems. Also If I'm not wrong, then quora uses Continous Integration, so I don't have to wait weeks before I can see my code live. That's very fascinating to me.
 
@@ -30,3 +30,18 @@
 > Check it's description
 
 > SBI = Situation Behavior Impact rules
+
+
+### 3. Do you have any questions?
+Ask critical/hard questions.
+1. What's the work expectation here? How does that balance with life?
+2. How does the reward structure work there? I mean if people do really good job's then how does the company reward them?
+3. If I pass phone interview, Where will my onsite interview be held?
+4. What's the training proccedures for freshers.
+5. As far as I know it is hard to get Switzerland's visa from BD when I have experience less than 5 years. So what will happen if I don't get visa?
+6. What do you expect from me after 5 years?
+7. What does google do for career growth of an employee?
+8. What will be the focus area during the interviews? How do you decide who interviews candidates?
+9. What is the expected time to come back with a solution during the interview?
+10. What should I prepare for the interview?
+11. What are the most likely reasons candidates get rejections?
