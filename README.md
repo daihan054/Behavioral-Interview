@@ -36,8 +36,14 @@
 * Research the company and your interviewers
 * Get a list of 10 interesting questions
 * You are almost certain to encounter certain questions, for example, a quick overview of your recent project, your top strengths, your development areas, why you apply to this role. You should have very crisp answers to these questions.
-* Bigest strength -> Related to roles with story
+* Bigest strength -> Related to roles with story (Taking initiative)
+  1. Started System test for my team
+  2. Started weekly practice session
+  3. Started feeback session anonymously
+  4. Started weekly knowledge transer with my team so that everyone becomes up to date with latest code
+  
 * Weakness -> Don't relate too much with roles
+  1. Feel sleepy during metting if meeting helds right after lunch
 * 
 
 ### 3. Do you have any questions?
