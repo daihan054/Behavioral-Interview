@@ -31,6 +31,14 @@
 
 > SBI = Situation Behavior Impact rules
 
+## Importants things to keep in mind
+* STAR = Situation, Task, Action, Result
+* Research the company and your interviewers
+* Get a list of 10 interesting questions
+* You are almost certain to encounter certain questions, for example, a quick overview of your recent project, your top strengths, your development areas, why you apply to this role. You should have very crisp answers to these questions.
+* Bigest strength -> Related to roles with story
+* Weakness -> Don't relate too much with roles
+* 
 
 ### 3. Do you have any questions?
 Ask critical/hard questions.
