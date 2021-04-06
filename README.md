@@ -1,4 +1,4 @@
-# Leadership principles
+# [Leadership principles](https://leetcode.com/discuss/interview-question/437082/amazon-behavioral-questions-leadership-principles-lp)
 ### 1. Tell me about a situation where you had a conflict with someone on your team. What was it about? What did you do? How did they react? What was the outcome?
 (S) I got conflict with one of my team mates during pair review. (T)Before pushing my changes to remote I ask my team member for peer review. He told me to change the commit message that he provided after reviewing. I could not agree with him as I think my message was enough descriptive to me. (A)So we showed both messages to manager. After reviewing both messages he changed into new one. (R) Now we follow a format provided by my manager for commit messages. This happens because English isn't our native language and sometimes we face problems to describe.
 
