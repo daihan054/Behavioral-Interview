@@ -1,3 +1,10 @@
+# Leadership principles
+### 1. Tell me about a situation where you had a conflict with someone on your team. What was it about? What did you do? How did they react? What was the outcome?
+(S) I got conflict with one of my team mates during pair review. (T)Before pushing my changes to remote I ask my team member for peer review. He told me to change the commit message that he provided after reviewing. I could not agree with him as I think my message was enough descriptive to me. (A)So we showed both messages to manager. After reviewing both messages he changed into new one. (R) Now we follow a format provided by my manager for commit messages. This happens because English isn't our native language and sometimes we face problems to describe.
+
+(S) Got conflicted with my manager. (T) On the eve of my religious festival he told me to work on festival day. (A) I didn't agree with him because if I would work during that time then it would take my happiness with my family far apart and that would give me suffer in the long run. So I explained why I was not interested to work during that time. (R) He understood my point and told me to reach him if I need any extra leaves for this.
+
+
 # Company Specific Questions
 ### 1. Why do you want to work here?
 
@@ -59,3 +66,4 @@ Ask critical/hard questions.
 9. What is the expected time to come back with a solution during the interview?
 10. What should I prepare for the interview?
 11. What are the most likely reasons candidates get rejections?
+
