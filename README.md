@@ -4,6 +4,11 @@
 
 (S) Got conflicted with my manager. (T) On the eve of my religious festival he told me to work on festival day. (A) I didn't agree with him because if I would work during that time then it would take my happiness with my family far apart and that would give me suffer in the long run. So I explained why I was not interested to work during that time. (R) He understood my point and told me to reach him if I need any extra leaves for this.
 
+### 2. Give an example of when you saw a peer struggling and decided to step in and help. What was the situation and what actions did you take? What was the outcome?
+(S) One of my team members / colleagues was struggling in his assigned task. (T) He was assigned to understand a feature and implement another feature which was almost similar to that. (A) The assigned person wasn't fresher in job experience. He worked in R&D team and them he joined my team. So was new in SDE. When I saw that he was struggling and might miss the release date so I decided to step in and helped him. First I understood his knowledge about the project and SDE. Then when I found both of them were not sufficient to complete the feature so I helped him explaining my knowledge about my project in simple way and then provided him some useful links(gRPC, Singleton, OOP Basic) which needs for my project. We also had lunch for several times and discussed in case of any confusion.
+(R) As a result I saw that he could meet his deadline and was interested to take new challanges willingly. I also learned many things and became clear about some concepts.
+
+
 
 # Company Specific Questions
 ### 1. Why do you want to work here?
