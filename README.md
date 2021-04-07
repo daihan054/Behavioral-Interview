@@ -8,6 +8,9 @@
 (S) One of my team members / colleagues was struggling in his assigned task. (T) He was assigned to understand a feature and implement another feature which was almost similar to that. (A) The assigned person wasn't fresher in job experience. He worked in R&D team and them he joined my team. So was new in SDE. When I saw that he was struggling and might miss the release date so I decided to step in and helped him. First I understood his knowledge about the project and SDE. Then when I found both of them were not sufficient to complete the feature so I helped him explaining my knowledge about my project in simple way and then provided him some useful links(gRPC, Singleton, OOP Basic) which needs for my project. We also had lunch for several times and discussed in case of any confusion.
 (R) As a result I saw that he could meet his deadline and was interested to take new challanges willingly. I also learned many things and became clear about some concepts.
 
+### 3. Tell me about a time you committed a mistake?
+(S) In my current job once I had to fetche all AiModels assigned to a specific tenant. (T) So I had to write a sql query to fetch the aimodel list. (A) I wrote the query in inefficient way. My plan was to make query on indexed column. But when I wrote the code I forgot to create index at that column. When describing to my manager I explained that it would be indexed column. It was fine in local machine but taking long time in live application.
+I rechecked all the code if I made any mistakes. I found nothing in the source code. Then I checked my documentation about the process and found that I forgot to add index. Then I wrote down that mistakes into my list so that I never repeat them again. (R) Now before submitting any changes of my code I recheck if source code and planned (Documents) are same or not. Also check my mistake list so that I never repeat those mistakes again.
 
 
 # Company Specific Questions
