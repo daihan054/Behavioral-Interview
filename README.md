@@ -38,9 +38,15 @@ The interviewer wants to check these 3 topics -
 2. What did you learn from this mistakes/failure
 3. What was the recovery/success?
 
-(S) In second year of my graduation, I had a team of 4 people to complete our semester project. (T) We planned to make a management type project. We had only two weeks at our hand. I took the responsibility to implement the backend. Others also took their interested part. (A) I was confident about my task. But after that I got two assignments to complete whose deadline were before the project submit date. I tried my best to complete all of them according to priorities. I could complete the assignments but could realised that I might fail to complete my part. And that's it. I couldn't complete it. (R) Although we were marked well enough for designing, documentations, presentation, but I felt like I let everyone down.
+(S) In second year of my graduation, I had a team of 4 people to complete our semester project. (T) We planned to make a management type project. We had only two weeks at our hand. I took the responsibility to implement the backend. Others also took their interested part. (A) I was confident about my task. But after that I got two assignments to complete whose deadline were before the project submit date. I tried my best to complete them according to deadlines. I had completed the assignments but realised that I might fail to complete my part. And that's it. I couldn't complete it. (R) Although we were marked well enough for designing, documentations, presentation, but I felt like I let everyone down.
+
+
 Learnings -
-1. 
+After that, I knew that I needed to manage my time better. I needed to inform that status to my teammates. Then I started using project management software like checklist and priority list. After That semester, I had a similar group project, and I gave myself several weeks to complete my part. When I delivered everything a week early, my team was thrilled.
+1. Inform your teammates/manager about your status
+2. Ask them for help when you are stuck or think that it might not be possible to meet the deadline
+3. Try to utilize time making a priority list
+
 
 
 # Company Specific Questions
