@@ -32,7 +32,15 @@ I write down all my mistakes in a list so that I never repeat them.
 ### 8. Tell me about a time when you helped one of your teammates?
 (S) In my current project when I work on a service then sometimes I need to call another service through gateway. When I was about to finish a task I saw that some test cases were not passing. (T) I rechecked everything and found okay from my side. But as in the service layer I need to call another service so it might had some possibilites that that service was providing wrong data. (A) So I by myself check that service and found that there are some missing cases there. I walked to him and informed about it. He also checked it and found the problems. But he was busy with other task. So I offered him that I could do it for him because at the end of the we had to finish the project before the deadline. After fixing those bugs I pushed that changes and added him as a reviewer . He reviewed and merged that changes. (R) Then the bugs were fixed and my module also passed for all cases.
 
+### 9. Have you ever failed at something? What did you learn from it?
+The interviewer wants to check these 3 topics -
+1. Did you own it?
+2. What did you learn from this mistakes/failure
+3. What was the recovery/success?
 
+(S) In second year of my graduation, I had a team of 4 people to complete our semester project. (T) We planned to make a management type project. We had only two weeks at our hand. I took the responsibility to implement the backend. Others also took their interested part. (A) I was confident about my task. But after that I got two assignments to complete whose deadline were before the project submit date. I tried my best to complete all of them according to priorities. I could complete the assignments but could realised that I might fail to complete my part. And that's it. I couldn't complete it. (R) Although we were marked well enough for designing, documentations, presentation, but I felt like I let everyone down.
+Learnings -
+1. 
 
 
 # Company Specific Questions
