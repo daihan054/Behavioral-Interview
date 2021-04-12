@@ -47,6 +47,8 @@ After that, I knew that I needed to manage my time better. I needed to inform th
 2. Ask them for help when you are stuck or think that it might not be possible to meet the deadline
 3. Try to utilize time making a priority list
 
+### 10. Tell me a time when you came up with novel solution?
+(S) It happened at my current project when my team was using mysql for some services. After using some days disk was full. (T) We needed to free up the memory from our server. But all the data were so important. Besides, according to our design the server should be run for 5 years in memory. (A) I took the responsibility to fix it from those servers. Some of us also tried but no one didn't find any solution. Some of us also suggested to change the servers. But I requested my manager to give me time before moving into another. Previously one of us faced the same issue and he solved it moving into another. But after analyzing I found that mysql was taking more spaces than necessary. And it was taking log of each query to make future query faster. But this log/cache were so huge that our server ran out of memory. (R) Then I removed them and fixed the problem. Also I impelemnted a scheduler that automatically delete those logs/cache when total memory consumption is > 70%. 
 
 
 # Company Specific Questions
