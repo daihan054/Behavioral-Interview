@@ -50,6 +50,10 @@ After that, I knew that I needed to manage my time better. I needed to inform th
 ### 10. Tell me a time when you came up with novel solution?
 (S) It happened at my current project when my team was using mysql for some services. After using some days disk was full. (T) We needed to free up the memory from our server. But all the data were so important. Besides, according to our design the server should be run for 5 years in memory. (A) I took the responsibility to fix it from those servers. Some of us also tried but no one didn't find any solution. Some of us also suggested to change the servers. But I requested my manager to give me time before moving into another. Previously one of us faced the same issue and he solved it moving into another. But after analyzing I found that mysql was taking more spaces than necessary. And it was taking log of each query to make future query faster. But this log/cache were so huge that our server ran out of memory. (R) Then I removed them and fixed the problem. Also I impelemnted a scheduler that automatically delete those logs/cache when total memory consumption is > 70%. 
 
+### 11. Tell me a time when you received negative feedback from manager and how you responded?
+(S) It happend at my previous company. All employees need to start office before @10 am sharp. Due to some problem in my family I went to bed late night. So I was late for couple of days consecutively. (A) Once during scrum meeting my manager told me that I was not serious about the time of entance. I also realized that I was late for several days. So after the meeting I went to my manager and share my problem with her. (R) She told me that she could not realize the situation and promised me help in any circumstance. When I overcame my problem then again I could reach office timely.
+
+
 
 # Company Specific Questions
 ### 1. Why do you want to work here?
