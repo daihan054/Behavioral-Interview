@@ -58,6 +58,7 @@ After that, I knew that I needed to manage my time better. I needed to inform th
 
 ### 13. Tell me  a time when you helped someone grow in career and it benefited them?
 > Need to recheck this answer
+
 (S) When I was in my last company I had about 13 members in my teams. In order to increase employees efficiency Samsung organizes Coding Challanges among all employees. Those who get good scores are promoted according to their coding level. (T) I passed that level just after joining and planned to help my team to increase logical thinking. (A) So I took several sessions, guided them, provided feedback and many more. (R) Among them, 8 people could pass that level and the rests also improved their logical thinking. It helped to make better project and thinking efficiency before any task. It also helped them to ace interviews and new challanges.  
 
 
