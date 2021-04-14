@@ -69,6 +69,9 @@ Learning -
 2. Help as much possible when someone stuggle
 3. Do/Take which things that comes from your mind
 
+### 15. Tell me a rime when you were 75% through a project and realized you had the wrong goal?
+(S) It happened with me when I was at Samsung. I was working on an ios project. (T) I designed and implemented client site database by myself. But when my manager pull that request she saw that android and ios database design for client side cache were different. (A) She called me and told me to follow android design as all of us were following android desgin and we will keep all client side database similar. I was not agree with her and discussed with android guy. He show me some advanced design that will be followed in next version and that's why his design was scalable. (R) I understood his design and got the answer to follow him. From then we discuss with others when finalize design.
+
 
 
 # Company Specific Questions
