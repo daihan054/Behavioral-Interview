@@ -57,9 +57,15 @@ After that, I knew that I needed to manage my time better. I needed to inform th
 (S) Let me tell you a time when I went above and beyond my job responsibilities. When I was working on my current project, sometimes my manager needs to delete container, model or firmware. There are a lot of dependencies and anytime synchronization may be be done properly. (T) So I thought to make a feature for my manager to do this task easily. (A) I developed a feature for testing for my manager as well as others (Like PDM, testers) that calling an API with secretToken will delete all dependencies for model, container and firmware. (R) This feature were really amazing when anyone faced problem with synchronization. Also then my manager decided to keep this feature as hidden feature of my project!
 
 ### 13. Tell me  a time when you helped someone grow in career and it benefited them?
-> Need to recheck this answer
 
 (S) When I was in my last company I had about 13 members in my teams. In order to increase employees efficiency Samsung organizes Coding Challanges among all employees. Those who get good scores are promoted according to their coding level. (T) I passed that level just after joining and planned to help my team to increase logical thinking. (A) So I took several sessions, guided them, provided feedback and many more. (R) Among them, 8 people could pass that level and the rests also improved their logical thinking. It helped to make better project and thinking efficiency before any task. It also helped them to ace interviews and new challanges.  
+
+### 14. Tell me a time when you helped some grow and it didn't benefit them?
+> Need to recheck this answer
+ 
+(S) When I was final year student I took a course called "Graph Theory". (T) I suggested one of my friends to take that course as most of us were taking it as a interest. (A) He took that course. But I saw he was struggling on the mid of that course. I helped him from my side and once I understood that he was not much interested with that course. But he took that course because all of this friends had taken that course. So I felt guilty for this. Besides, his interested was to be a banker. (R) So after completing his graduation he joined at a bank. And till now that course/theory didn't help me much.
+
+
 
 
 # Company Specific Questions
