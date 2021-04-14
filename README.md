@@ -63,8 +63,11 @@ After that, I knew that I needed to manage my time better. I needed to inform th
 ### 14. Tell me a time when you helped some grow and it didn't benefit them?
 > Need to recheck this answer
  
-(S) When I was final year student I took a course called "Graph Theory". (T) I suggested one of my friends to take that course as most of us were taking it as a interest. (A) He took that course. But I saw he was struggling on the mid of that course. I helped him from my side and once I understood that he was not much interested with that course. But he took that course because all of this friends had taken that course. So I felt guilty for this. Besides, his interested was to be a banker. (R) So after completing his graduation he joined at a bank. And till now that course/theory didn't help me much.
-
+(S) When I was final year student I took a course called "Graph Theory". (T) I suggested one of my friends to take that course as most of us were taking it as a interest. (A) He also took that course. But I saw he was struggling on the midle of that period. I helped him from my side as possible and once I understood that he was not much interested with that course. But he took that course because all of this friends had taken that course. So I felt guilty for this. Besides, his interested was to be a banker. (R) After struggling a lot, he could pass with lower grade than us. So after completing his graduation he joined at a bank. And till now that course/theory didn't help me much.
+Learning - 
+1. Know once's interest and suggest
+2. Help as much possible when someone stuggle
+3. Do/Take which things that comes from your mind
 
 
 
