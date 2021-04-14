@@ -72,6 +72,10 @@ Learning -
 ### 15. Tell me a rime when you were 75% through a project and realized you had the wrong goal?
 (S) It happened with me when I was at Samsung. I was working on an ios project. (T) I designed and implemented client site database by myself. But when my manager pull that request she saw that android and ios database design for client side cache were different. (A) She called me and told me to follow android design as all of us were following android desgin and we will keep all client side database similar. I was not agree with her and discussed with android guy. He show me some advanced design that will be followed in next version and that's why his design was scalable. (R) I understood his design and got the answer to follow him. From then we discuss with others when finalize design.
 
+### 16. Tell me a time when your team members were not supporting something but you pushed and went for a more optimal solution?
+(S) It happened when in my current project. When I was working on a service I needed to verify an user which is maintain in another service. I was getting error for some users. (T) I informed this issue to the responsible person but was not getting response from him actively. (A) So I went to him and asked if he could check that because I was stuck to verify. During that time he was busy in another task so he wasn't active with me. I offered him to check collaborately and found that for testing he added some special checks which should not be added there. I offered him to mock the DAO layer and remove those checks. When he finished others dependencies he implented those according to my suggestions. (R) He used this mockito to test other modules also and removed all kind of extra checks. And it made him tenseless.
+
+
 
 
 # Company Specific Questions
