@@ -78,6 +78,10 @@ Learning -
 ### 17. Tell me a time when you pushed back a decision from your management for better long term benefits?
 (S) I pushed back a decision with my project lead about changing team. (T) There were no new tasks/features to the new team. That was only supporting team. But as a developer I want to explore and try to get the best solution of a problem. I like these kinds of thing very much. (A) So I disagreed with my lead and refused to join to the new team. And I gave him some options where I will feel comfort about the tasks. (R) Then he assigned me to another team from my choose list. I also did well to that team and my lead was very pleased to me.
 
+### 18. Tell me about yourself?
+I completed my post graduation from JU in 2017. I am an innovative software engineer with more than 3 years of experience developing and managin all aspects of software with small or medium-sized team. My current company is AnyConnect. Here I am in charge of developing and managing 4-5 microservices. We prioritize custommer requirements, efficent design, documentation and scalable system. In 2020, our plan was to get 3 customers. And our product is so cool that we got 5!!! When I was working with graphical view of all cameras, I used google map with satelite view to show the cameras. It is really cool. From then I am really interested to work such kinds great projects. So I am really interested to work at google.
+
+
 
 # Company Specific Questions
 ### 1. Why do you want to work here?
