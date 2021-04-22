@@ -96,6 +96,9 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 ### 23. Tell me a time when you learned new technologies?
 (S) It was just after finishing my study and on the eve of my career life. (T) When I started working on Enosis my supervisor introduced a technology which will need for lifetime. It was git. (A) After hearing this name I searched on the internect and watched some videos. I found it really interesting and wished if I could learn this during my graduation life. If I would learn it during that time then I could save all of my works/code into remote so that I don't loose them. Then for learning more, I bought a book named ["Pro Git"](https://xiangxianzui.github.io/2018/05/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/progit.pdf) by Scot Chacon. (R) After reading this book I could get rid of all confusion about git and now I suggest to everyone new joiners to learn git first if he/she hasn't learned yet. Now I maintain my works in git.
 
+### 24. Tell me about a time you had multiple solutions and you had to select an optimal one?
+(S) In my current project every user can see its location on the web. (T) One solution for this was to track locations of active users after a specific time interval and then show them when get query. And another solution is to provide lat/lon to google map then get latest location. (A) I chosed the second one because it gives us almost live location. So it is latest. Also one business account can't make more than 10 requests in a second. If I want to make more request then I need to pay. So I created multiple accounts so that whenever any account is full then I will make request through another account. (R) It gives us almost live location and serves our purpose when free of cost which is profit for our company.
+
 
 # Company Specific Questions
 ### 1. Why do you want to work here?
