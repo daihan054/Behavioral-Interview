@@ -81,6 +81,10 @@ Learning -
 ### 18. Tell me about yourself?
 I completed my post graduation from JU in 2017. I am an innovative software engineer with more than 3 years of experience developing and managin all aspects of software with small or medium-sized team. My current company is AnyConnect. Here I am in charge of developing and managing 4-5 microservices. We prioritize custommer requirements, efficent design, documentation and scalable system. In 2020, our plan was to get 3 customers. And our product is so cool that we got 5!!! When I was working with graphical view of all cameras, I used google map with satelite view to show the cameras. It is really cool. From then I am really interested to work such kinds great projects. So I am really interested to work at google.
 
+### 19. Tell me a time when you were working on a project on a time constraint?
+(S) When I was a student of final semester of final year, I with two other had to complete a project. (T) We planned and designed about our tasks and features. But suddenly heard that our class teacher was planning to give convocation to us. So he wanted to finish the project soon. (A) As time was less than the planned so we eliminated some extra features which would be needless during that short time. (R) When we submited that we were marked goo enough as we completed main features of that project.
+
+
 
 
 # Company Specific Questions
