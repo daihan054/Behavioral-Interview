@@ -88,7 +88,9 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 (S) I was at SRBD. I had to complete localization task for my team. (A) Localization feature was new in my team so I was searching a person from whom I can get help. I had a friend in another team who also completed localization feature for her project. So I asked her to help me. I went to her desk and spend times to understand the way of implementing/using localization. (R) After that I implemented that feature to my project and completed that successfully.
 
 ### 21. Tell me about a time you faced an obstacle/problem and how you overcame it?
-(S) 
+(S) I faced a problem in my current company when I merged some code changes. (T) I created a pull request and that created other APIs to fail. (A) In order to overcome the same kind situation not only for me but also for all, I planned and implemented a system test which would be trigger after each commit. If all tests passed then anyone can request for pull. (R) Now I am less tensed then previous also all my other team members got releaf from tension about new changes.
+
+
 
 
 # Company Specific Questions
