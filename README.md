@@ -90,6 +90,8 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 ### 21. Tell me about a time you faced an obstacle/problem and how you overcame it?
 (S) I faced a problem in my current company when I merged some code changes. (T) I created a pull request and that created other APIs to fail. (A) In order to overcome the same kind situation not only for me but also for all, I planned and implemented a system test which would be trigger after each commit. If all tests passed then anyone can request for pull. (R) Now I am less tensed then previous also all my other team members got releaf from tension about new changes.
 
+### 22. Tell me a time you took some on some risk?
+(S) When I was at samsung, we had a presentation to show our client about our project. (T) I completed my task clearly for the version that I had. Others also did the same. But when we glued all features into one then we saw that some pages were broken. It happened because of ios version. (A) I addressed this issue to my manager and it was just before the demo day. So I asked my manager about the specific version which will be used during presentation. I heared the version and told everyone to make it workable on that version at least. It was risk for us because we were presenting infront of client and we did it as it wass just only demo project. (R) Luckily, everything went well during that time and we fixed the issue for all modules. Now it is responsive for all version.
 
 
 
