@@ -84,6 +84,8 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 ### 19. Tell me a time when you were working on a project on a time constraint?
 (S) When I was a student of final semester of final year, I with two other had to complete a project. (T) We planned and designed about our tasks and features. But suddenly heard that our class teacher was planning to give convocation to us. So he wanted to finish the project soon. (A) As time was less than the planned so we eliminated some extra features which would be needless during that short time. (R) When we submited that we were marked goo enough as we completed main features of that project.
 
+### 20. Time when you needed help from somebody?
+(S) I was at SRBD. I had to complete localization task for my team. (A) Localization feature was new in my team so I was searching a person from whom I can get help. I had a friend in another team who also completed localization feature for her project. So I asked her to help me. I went to her desk and spend times to understand the way of implementing/using localization. (R) After that I implemented that feature to my project and completed that successfully.
 
 
 
