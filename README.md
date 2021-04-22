@@ -87,6 +87,8 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 ### 20. Time when you needed help from somebody?
 (S) I was at SRBD. I had to complete localization task for my team. (A) Localization feature was new in my team so I was searching a person from whom I can get help. I had a friend in another team who also completed localization feature for her project. So I asked her to help me. I went to her desk and spend times to understand the way of implementing/using localization. (R) After that I implemented that feature to my project and completed that successfully.
 
+### 21. Tell me about a time you faced an obstacle/problem and how you overcame it?
+(S) 
 
 
 # Company Specific Questions
