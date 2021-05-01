@@ -102,6 +102,9 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 ### 25. Tell me a time when you had limited time and what was it's impact? (Frugality)
 (S) In my current company once we had to show our product to a new client. I was walking on the right direction in right way. (T) But suddenly for some problems the client wanted to meet with us earlier. (A) So I hadn't enough time to complete all the features that required. So I talked with my teams and listed out them according to priorities. Then I implemented the mostly used features and planned to implement the rest after the meeting. (R) The client was happy to see that most of the importants features were implemented and I completed the remaining features within next week.
 
+### 26. Tell me a time when you Handled a tight deadline? (Frugality, Bias for action)
+(S) Let me tell you a time when I was at SRBD. (T) We had to release first version of the project within 1 and half months. It was really tough for us to complete the required features with that short time. (A) I prioritized the features and completed followed them accordingly. Also during that time a new intern joined at our group (A group might have several teams). So I talked with him and described my plan of my project and asked if he was interested to work with me. After getting positive response I requested my manager to assign the intern with me. Besided, I talked with managers and co-workers to get important tips on how simply I can complete the tasks. (R) Following these approaches, when I am at the close of deadline I saw that I almost had completed all the impotant features that were required during that time. My manager was pleased with me.
+
 
 
 # Company Specific Questions
