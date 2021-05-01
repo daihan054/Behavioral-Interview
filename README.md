@@ -99,7 +99,7 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 ### 24. Tell me about a time you had multiple solutions and you had to select an optimal one?
 (S) In my current project every user can see its location on the web. (T) One solution for this was to track locations of active users after a specific time interval and then show them when get query. And another solution is to provide lat/lon to google map then get latest location. (A) I chosed the second one because it gives us almost live location. So it is latest. Also one business account can't make more than 10 requests in a second. If I want to make more request then I need to pay. So I created multiple accounts so that whenever any account is full then I will make request through another account. (R) It gives us almost live location and serves our purpose when free of cost which is profit for our company.
 
-### 25. Tell me a time when you had limited time and what was it's impact?
+### 25. Tell me a time when you had limited time and what was it's impact? (Frugality)
 (S) In my current company once we had to show our product to a new client. I was walking on the right direction in right way. (T) But suddenly for some problems the client wanted to meet with us earlier. (A) So I hadn't enough time to complete all the features that required. So I talked with my teams and listed out them according to priorities. Then I implemented the mostly used features and planned to implement the rest after the meeting. (R) The client was happy to see that most of the importants features were implemented and I completed the remaining features within next week.
 
 
