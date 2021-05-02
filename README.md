@@ -121,6 +121,11 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 ### 31. Tell me a time when you faced a setback initially but still achieved the goal?
 (ST) In my current project I faced setback/difficulies when I was told to make backend and front end align. As our backed was almost ready so I needed to give more emphasis on front end. I sat with front end guy. (A) Initially it was difficult for me because I had no idea about front end which tools (Bootstrap, jquery) are using my project. Also sometimes I needed to provide some more APIs or modify existing API which makes more sense. But day by after learning from him and own study now (R) I can run parallerlly with him. First step for a new task is always difficult. If I give some extra effort without losing hope then everything is possible.
 
+### 32. Tell me about a time when you felt under pressure that you wouldn't be able to get something done?
+(S) When I was working at samsung my team got a new project. (T) I with my team mates needed to finish a mvp project withing a week. And similar project was also developing by another R&D center. And only one of them would get the project to complete. (A) As I am at Dhaka City so I tried my best to complete that project. But most of us were fresher and it was my first android project. I took a lot of pressure to complete my parts and to help others. I did my best withing that time. But as less experienced my project were not better than the competitor. (R) So we didn't get the project. But considering our work dedication and motivation my team got another B2B project.
+
+### 33. Tell me a time when you had to take a pivot at the last minute?
+(S) Let me tell you a store of 2017. (T) I participated a National Programming Competition. We were given some problems to solve. (A) It's length was 5 hours. When others team were able to solve 6 problems in 4 hours, we had only 2 !!! I was trying my best but got some 
 
 
 # Company Specific Questions
