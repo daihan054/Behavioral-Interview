@@ -118,6 +118,8 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 ### 30. Tell me a time when you had conflicted idea with teammate and how did you resolve it?
 (S) I got conflict with my team mate about a task who was supervising me during that time. (T) There are many ways to complete a task. I chosed the one which is easy. But supervisor told to to follow another way. (A) But I told him that as it was serving our current requirements so it would be better. He told me about some scalable system and I was totally new to this term. I verified this from other mates too. Then I learned it from him and appreciated his idea. (R) This learning guided me to think about scalable system during design and implementation. From then before going to implementation I always think about scalable system and pass this information to juniors also.
 
+### 31. Tell me a time when you faced a setback initially but still achieved the goal?
+(ST) In my current project I faced setback/difficulies when I was told to make backend and front end align. As our backed was almost ready so I needed to give more emphasis on front end. I sat with front end guy. (A) Initially it was difficult for me because I had no idea about front end which tools (Bootstrap, jquery) are using my project. Also sometimes I needed to provide some more APIs or modify existing API which makes more sense. But day by after learning from him and own study now (R) I can run parallerlly with him. First step for a new task is always difficult. If I give some extra effort without losing hope then everything is possible.
 
 
 
