@@ -108,6 +108,11 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 ### 27. How would you help a new employee who is facing technical difficulties? (Bias For action, Learn and Be Curious)
 (S) When I joined at my current company I was totally new to this environment. I never used ubuntu as a professional before this company. (T) After 5/6 months of my joining a fresher joined at my team. And as it is pandemic time so it was very for him to make his environment ready. (A) As I just completed those steps so I knocked him by myself about his status. He told me some difficulties that he was facing. I helped him doing that sometimes by screen sharing and sometimes connection with his pc. But he faced one problem that I also couldn't solve. So I asked our technical guy to solve this if possible as I am unable to fix it. He solved it and I saw the steps that he followed and learned it to solve for next time. (R) After somedays when I got one new pc so I had to setup environment newly. And I faced the same problems that the fresher faced during that time. And I could solved all of them without any help.
 
+### 28. Tell me about tim when you faced a difficult challenge?
+(S) When I was at SRBD I faced a difficult situation. (T) We had a release on the first day of week. So everything was working fine till diner. Most of my co-workers left office on that day. Normally I take diner at office. So I was testing my application as final test. During that time I faced some data inconsistancy (Like milliseconds) problem when I was sednding data from wearable device to my application. As next two days were weekend and release was at the beginning of week so I took that issue seriously. 
+(A) Lickily my manager was also in office on that day. I informed this issue to him immediately. He called the person who developed that feature. But the responsible guy was already out of office on that day and he was on the way to his home. So I told my manager to help me to find the issue. Also the responsible person helped us on call. I found some inconsistency between data generated time and data sending time. I fixed it and commited the changes. (R) The issue was solved and my manager was happy with my insight.
+
+
 
 
 # Company Specific Questions
