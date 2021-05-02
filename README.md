@@ -112,6 +112,8 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 (S) When I was at SRBD I faced a difficult situation. (T) We had a release on the first day of week. So everything was working fine till diner. Most of my co-workers left office on that day. Normally I take diner at office. So I was testing my application as final test. During that time I faced some data inconsistancy (Like milliseconds) problem when I was sednding data from wearable device to my application. As next two days were weekend and release was at the beginning of week so I took that issue seriously. 
 (A) Lickily my manager was also in office on that day. I informed this issue to him immediately. He called the person who developed that feature. But the responsible guy was already out of office on that day and he was on the way to his home. So I told my manager to help me to find the issue. Also the responsible person helped us on call. I found some inconsistency between data generated time and data sending time. I fixed it and commited the changes. (R) The issue was solved and my manager was happy with my insight.
 
+### 29. Tell me about a time when you thought of an unpopular idea?
+(S) I had an unpopular idea when I was at SRBD. (T) My manager called me and my team mates in a meeting room suddenly and told us to give any idea that could be submitted from my team. (A) During that time I approached an idea (Eye power, status detection) which was not popular at that time. Because in order to make this device we need more money than existing devices. And my plan was to integarte this with mobile devices. And it was also costly. So that idea wan't accepted. (R) Idea can be anything. Don't stop making idea. One day it might be worthy.
 
 
 
