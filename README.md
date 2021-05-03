@@ -26,7 +26,7 @@ I rechecked all the code if I made any mistakes. I found nothing in the source c
 > 4. Update your plan to boss so that he can guide you in any time
 I write down all my mistakes in a list so that I never repeat them.
 
-### 6. Tell me about a time when you invented something?
+### 6. Tell me about a time when you invented something? (Invent and Simplify, Ownership)
 (S) When I worked on Samsung, during developemt, one device could get only one time data for testing. In order to get new data we needed to reinstalled the app. It was boring. Besides, server provided data only one time because that server was using for another large application (S-Health). (T) So we needed to do some mechanism so that server doesn't get load and from mobile site we get latest data. (A) I thought a mechanism that I will shift the data from old to new. I did this by myself. But I face serveral challanges because every table's timestamp was unique. When I tried to shift them I got serveral exception because of unique constrant. So I took a backup of data to temp, then delete all the data from main database then tried to add timestamp with each entry. (R) By this way, we could solve our problem and it saved our time to negotiate with server team and also it decreased server load time and increased our productivity. 
 
 ### 7. Tell me about a time when you took important decision without any data?
