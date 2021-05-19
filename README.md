@@ -196,3 +196,13 @@ Ask critical/hard questions.
 10. What should I prepare for the interview?
 11. What are the most likely reasons candidates get rejections?
 
+1. Can you tell me more about the day-to-day responsibilities of this job? 
+2. How do you define success for this position? What metrics are you using to measure my accomplishments?
+3. Do you have any hesitations about my skills or experience for this job?
+4. Where do you think the company is headed in the next 5 years?
+5. What are the biggest opportunities facing the company/department right now?
+6. What have been the biggest challenges this year for the team?
+7. What do you like best about working for this company?
+8. What are the opportunities for advancement and growth in this position?
+9. Why did you decide to join this company?
+10. What are your favorite and least favorite things about working here?
