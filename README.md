@@ -1,7 +1,9 @@
 # [Leadership principles](https://leetcode.com/discuss/interview-question/437082/amazon-behavioral-questions-leadership-principles-lp)
 [LP meaning at interviewgenie](https://interviewgenie.com/blog-1/category/Amazon+interviews)
-### 1. Tell me about a situation where you had a conflict with someone on your team. What was it about? What did you do? How did they react? What was the outcome? (algo expert)
+### 1. Tell me about a situation where you had a conflict with someone on your team. What was it about? What did you do? How did they react? What was the outcome? 
 (S) I got conflict with one of my team mates during pair review. (T) I wrote code for a feature about profile picture of an user. So in order to make it fast I compressed user's image and then stored it in device's memory. But my team mate told me to fetch the image from online storage everytime cause stored image was less quality then the original. And it kills space on user device. (A) But I wasn't agree with him because fetching data everytime will take time and keeps user waiting. And it is bad expericence for user. So we talked with my manager and after hearing these both solution (R) he suggested a hybrid solution that by default image will be showed from local cache. But when a user clicks on his picture to see it in full screen then we will fetch the original image from online storage. It should be fine for user and us. I followed this hybrid approach and from then I follow this idea for images/data which have frequent usage.
+
+Also I summed up with cache eviction policy after every 10 mins.
 
 (S) I got conflict with one of my team mates during pair review. (T)Before pushing my changes to remote I ask my team member for peer review. He told me to change the commit message that he provided after reviewing. I could not agree with him as I think my message was enough descriptive to me. (A)So we showed both messages to manager. After reviewing both messages he changed into new one. (R) Now we follow a format provided by my manager for commit messages. This happens because English isn't our native language and sometimes we face problems to describe.
 
