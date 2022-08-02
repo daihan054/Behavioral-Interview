@@ -208,3 +208,6 @@ Ask critical/hard questions.
 8. What are the opportunities for advancement and growth in this position?
 9. Why did you decide to join this company?
 10. What are your favorite and least favorite things about working here?
+
+
+Some helpful link: https://jinesh.codes/blog/ace-amazon-lp-questions/
